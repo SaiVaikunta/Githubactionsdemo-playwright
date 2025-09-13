@@ -19,5 +19,5 @@ test('get started link', async ({ page }) => {
 
 test('Welcome github actions', async ({ page }) => {
  console.log('Omsrisairam')
- console.log('this has been changed from feature')
+ console.log('this has been changed from feature and also made changes subsequently')
 });
